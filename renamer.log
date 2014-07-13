@@ -1,2 +1,5 @@
-2014-07-12 21:58:37 DEBUG FileParser:15 - Input location::F:\working
-2014-07-12 21:58:37 DEBUG FileParser:29 - Looking at file::F:\working\02 Baby Come On.mp3
+2014-07-12 22:41:22 DEBUG FileParser:27 - Input location::F:\working
+2014-07-12 22:41:22 DEBUG FileParser:42 - Looking at file::F:\working\02 Baby Come On.mp3
+2014-07-13 10:10:18 DEBUG FileParser:27 - Input location::F:\working
+2014-07-13 10:10:18 DEBUG FileParser:42 - Looking at file::F:\working\02 Baby Come On.mp3
+2014-07-13 10:10:18 DEBUG FileParser:55 - Track [trackName=Baby Come On, trackNumber=2, albumName=When Your Heart Stops Beating, artist=+44, content=F:\working\02 Baby Come On.mp3]

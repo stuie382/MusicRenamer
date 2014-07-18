@@ -3,3 +3,387 @@
 2014-07-13 10:10:18 DEBUG FileParser:27 - Input location::F:\working
 2014-07-13 10:10:18 DEBUG FileParser:42 - Looking at file::F:\working\02 Baby Come On.mp3
 2014-07-13 10:10:18 DEBUG FileParser:55 - Track [trackName=Baby Come On, trackNumber=2, albumName=When Your Heart Stops Beating, artist=+44, content=F:\working\02 Baby Come On.mp3]
+2014-07-13 15:40:57 DEBUG FileParser:27 - Input location::F:\working
+2014-07-13 15:40:57 DEBUG FileParser:42 - Looking at file::F:\working\02 Baby Come On.mp3
+2014-07-13 15:40:57 DEBUG FileParser:55 - Track [trackName=Baby Come On, trackNumber=2, albumName=When Your Heart Stops Beating, artist=+44, content=F:\working\02 Baby Come On.mp3]
+2014-07-18 20:31:48 DEBUG FileParser:30 - Input location::F:\working
+2014-07-18 20:31:48 DEBUG FileParser:45 - Looking at file::F:\working\02 Baby Come On.mp3
+2014-07-18 20:31:48 DEBUG FileParser:58 - Track [trackName=Baby Come On, trackNumber=2, albumName=When Your Heart Stops Beating, artist=+44, content=F:\working\02 Baby Come On.mp3]
+2014-07-18 21:25:57 DEBUG FpUtils:49 - Output location for new files::F:\myFiles\\correctedFiles\myAlbum\
+2014-07-18 21:26:16 DEBUG FpUtils:48 - Output location for new files::F:\myFiles\correctedFiles\myAlbum\
+2014-07-18 21:28:37 DEBUG FpUtils:48 - Output location for new files::F:\myFiles\correctedFiles\myAlbum\
+2014-07-18 21:29:18 DEBUG FpUtils:48 - Output location for new files::F:\myFiles\correctedFiles\myAlbum\
+2014-07-18 21:29:44 DEBUG FpUtils:48 - Output location for new files::F:\myFiles\correctedFiles\myAlbum\
+2014-07-18 21:45:09 DEBUG FileParser:32 - Input location::F:\working
+2014-07-18 21:45:09 DEBUG FileParser:48 - Looking at file::F:\working\02 Baby Come On.mp3
+2014-07-18 21:45:10 DEBUG FileParser:61 - Track [trackName=Baby Come On, trackNumber=2, albumName=When Your Heart Stops Beating, artist=+44, content=F:\working\02 Baby Come On.mp3]
+2014-07-18 21:45:10 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\When Your Heart Stops Beating\
+2014-07-18 21:45:10 ERROR FileParser:82 - Something went wrong with Baby Come On. It has not been moved. Fix it.
+2014-07-18 21:45:43 DEBUG FileParser:32 - Input location::F:\working
+2014-07-18 21:45:43 DEBUG FileParser:48 - Looking at file::F:\working\02 Baby Come On.mp3
+2014-07-18 21:45:43 DEBUG FileParser:61 - Track [trackName=Baby Come On, trackNumber=2, albumName=When Your Heart Stops Beating, artist=+44, content=F:\working\02 Baby Come On.mp3]
+2014-07-18 21:46:08 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\When Your Heart Stops Beating\
+2014-07-18 21:46:55 ERROR FileParser:82 - Something went wrong with Baby Come On. It has not been moved. Fix it.
+2014-07-18 21:49:51 DEBUG FileParser:32 - Input location::F:\working
+2014-07-18 21:49:51 DEBUG FileParser:48 - Looking at file::F:\working\02 Baby Come On.mp3
+2014-07-18 21:49:51 DEBUG FileParser:61 - Track [trackName=Baby Come On, trackNumber=2, albumName=When Your Heart Stops Beating, artist=+44, content=F:\working\02 Baby Come On.mp3]
+2014-07-18 21:49:51 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\When Your Heart Stops Beating\
+2014-07-18 21:49:51 ERROR FileParser:83 - Something went wrong with Baby Come On. It has not been moved. Fix it.
+2014-07-18 22:01:58 DEBUG FileParser:32 - Input location::F:\working
+2014-07-18 22:01:58 DEBUG FileParser:48 - Looking at file::F:\working\02 Baby Come On.mp3
+2014-07-18 22:01:58 DEBUG FileParser:61 - Track [trackName=Baby Come On, trackNumber=2, albumName=When Your Heart Stops Beating, artist=+44, content=F:\working\02 Baby Come On.mp3]
+2014-07-18 22:01:58 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\When Your Heart Stops Beating\
+2014-07-18 22:01:58 ERROR FileParser:83 - Something went wrong with Baby Come On. It has not been moved. Fix it.
+2014-07-18 22:09:00 DEBUG FileParser:32 - Input location::F:\working
+2014-07-18 22:09:00 DEBUG FileParser:48 - Looking at file::F:\working\02 Baby Come On.mp3
+2014-07-18 22:09:00 DEBUG FileParser:61 - Track [trackName=Baby Come On, trackNumber=2, albumName=When Your Heart Stops Beating, artist=+44, content=F:\working\02 Baby Come On.mp3]
+2014-07-18 22:09:03 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\When Your Heart Stops Beating\
+2014-07-18 22:09:37 ERROR FileParser:83 - Something went wrong with Baby Come On. It has not been moved. Fix it.
+2014-07-18 22:09:41 DEBUG FileParser:32 - Input location::F:\working
+2014-07-18 22:09:41 DEBUG FileParser:48 - Looking at file::F:\working\02 Baby Come On.mp3
+2014-07-18 22:09:41 DEBUG FileParser:61 - Track [trackName=Baby Come On, trackNumber=2, albumName=When Your Heart Stops Beating, artist=+44, content=F:\working\02 Baby Come On.mp3]
+2014-07-18 22:09:41 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\When Your Heart Stops Beating\
+2014-07-18 22:09:45 ERROR FileParser:83 - Something went wrong with Baby Come On. It has not been moved. Fix it.
+2014-07-18 22:18:12 DEBUG FileParser:34 - Input location::F:\working
+2014-07-18 22:18:12 DEBUG FileParser:50 - Looking at file::F:\working\02 Baby Come On.mp3
+2014-07-18 22:18:12 DEBUG FileParser:63 - Track [trackName=Baby Come On, trackNumber=2, albumName=When Your Heart Stops Beating, artist=+44, content=F:\working\02 Baby Come On.mp3]
+2014-07-18 22:18:12 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\When Your Heart Stops Beating\
+2014-07-18 22:18:12 DEBUG FileParser:84 - Moved Baby Come On to F:\working\correctedFiles\When Your Heart Stops Beating\Baby Come On.mp3
+2014-07-18 22:20:01 DEBUG FileParser:34 - Input location::F:\working
+2014-07-18 22:20:01 DEBUG FileParser:50 - Looking at file::F:\working\01 Eye of the Tiger.mp3
+2014-07-18 22:20:01 DEBUG FileParser:63 - Track [trackName=Eye of the Tiger, trackNumber=1, albumName=Greatest Hits, artist=Survivor, content=F:\working\01 Eye of the Tiger.mp3]
+2014-07-18 22:20:01 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Greatest Hits\
+2014-07-18 22:20:01 DEBUG FileParser:84 - Moved Eye of the Tiger to F:\working\correctedFiles\Greatest Hits\Eye of the Tiger.mp3
+2014-07-18 22:20:01 DEBUG FileParser:50 - Looking at file::F:\working\02 Danger Zone.mp3
+2014-07-18 22:20:01 DEBUG FileParser:63 - Track [trackName=Danger Zone, trackNumber=2, albumName=Billboard Top Hits: 1986, artist=Kenny Loggins, content=F:\working\02 Danger Zone.mp3]
+2014-07-18 22:20:01 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Billboard Top Hits: 1986\
+2014-07-18 22:20:01 ERROR FileParser:87 - Error occured::
+java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+	at java.io.WinNTFileSystem.canonicalize0(Native Method)
+	at java.io.WinNTFileSystem.canonicalize(Unknown Source)
+	at java.io.File.getCanonicalPath(Unknown Source)
+	at java.io.File.getCanonicalFile(Unknown Source)
+	at com.google.common.io.Files.createParentDirs(Files.java:632)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:82)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:20:01 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Greatest Hits\
+2014-07-18 22:20:01 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\01 Eye of the Tiger.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:20:01 DEBUG FileParser:50 - Looking at file::F:\working\17 Real Wild Child.mp3
+2014-07-18 22:20:01 DEBUG FileParser:63 - Track [trackName=Real Wild Child, trackNumber=17, albumName=Reading Indie Album, artist=Iggy Pop, content=F:\working\17 Real Wild Child.mp3]
+2014-07-18 22:20:01 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Reading Indie Album\
+2014-07-18 22:20:01 DEBUG FileParser:84 - Moved Real Wild Child to F:\working\correctedFiles\Reading Indie Album\Real Wild Child.mp3
+2014-07-18 22:20:01 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Billboard Top Hits: 1986\
+2014-07-18 22:20:01 ERROR FileParser:87 - Error occured::
+java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+	at java.io.WinNTFileSystem.canonicalize0(Native Method)
+	at java.io.WinNTFileSystem.canonicalize(Unknown Source)
+	at java.io.File.getCanonicalPath(Unknown Source)
+	at java.io.File.getCanonicalFile(Unknown Source)
+	at com.google.common.io.Files.createParentDirs(Files.java:632)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:82)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:20:01 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Greatest Hits\
+2014-07-18 22:20:01 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\01 Eye of the Tiger.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:20:01 DEBUG FileParser:50 - Looking at file::F:\working\Blood Bros_ First Blood.mp3
+2014-07-18 22:20:02 ERROR FileParser:65 - Something went wrong::null
+2014-07-18 22:20:02 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Reading Indie Album\
+2014-07-18 22:20:02 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\17 Real Wild Child.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:20:02 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Billboard Top Hits: 1986\
+2014-07-18 22:20:02 ERROR FileParser:87 - Error occured::
+java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+	at java.io.WinNTFileSystem.canonicalize0(Native Method)
+	at java.io.WinNTFileSystem.canonicalize(Unknown Source)
+	at java.io.File.getCanonicalPath(Unknown Source)
+	at java.io.File.getCanonicalFile(Unknown Source)
+	at com.google.common.io.Files.createParentDirs(Files.java:632)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:82)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:20:02 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Greatest Hits\
+2014-07-18 22:20:02 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\01 Eye of the Tiger.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:20:02 DEBUG FileParser:50 - Looking at file::F:\working\Blood Bros_ Heaven2Hell.mp3
+2014-07-18 22:20:03 ERROR FileParser:65 - Something went wrong::null
+2014-07-18 22:20:03 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Reading Indie Album\
+2014-07-18 22:20:03 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\17 Real Wild Child.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:20:03 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Billboard Top Hits: 1986\
+2014-07-18 22:20:03 ERROR FileParser:87 - Error occured::
+java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+	at java.io.WinNTFileSystem.canonicalize0(Native Method)
+	at java.io.WinNTFileSystem.canonicalize(Unknown Source)
+	at java.io.File.getCanonicalPath(Unknown Source)
+	at java.io.File.getCanonicalFile(Unknown Source)
+	at com.google.common.io.Files.createParentDirs(Files.java:632)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:82)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:20:03 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Greatest Hits\
+2014-07-18 22:20:03 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\01 Eye of the Tiger.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:20:03 ERROR FileParser:65 - Something went wrong::F:\working\correctedFiles (Access is denied)
+2014-07-18 22:20:03 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Reading Indie Album\
+2014-07-18 22:20:03 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\17 Real Wild Child.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:20:03 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Billboard Top Hits: 1986\
+2014-07-18 22:20:03 ERROR FileParser:87 - Error occured::
+java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+	at java.io.WinNTFileSystem.canonicalize0(Native Method)
+	at java.io.WinNTFileSystem.canonicalize(Unknown Source)
+	at java.io.File.getCanonicalPath(Unknown Source)
+	at java.io.File.getCanonicalFile(Unknown Source)
+	at com.google.common.io.Files.createParentDirs(Files.java:632)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:82)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:20:03 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Greatest Hits\
+2014-07-18 22:20:03 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\01 Eye of the Tiger.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:22:05 DEBUG FileParser:34 - Input location::F:\working
+2014-07-18 22:22:05 DEBUG FileParser:50 - Looking at file::F:\working\01 Eye of the Tiger.mp3
+2014-07-18 22:22:05 DEBUG FileParser:63 - Track [trackName=Eye of the Tiger, trackNumber=1, albumName=Greatest Hits, artist=Survivor, content=F:\working\01 Eye of the Tiger.mp3]
+2014-07-18 22:23:20 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Greatest Hits\
+2014-07-18 22:23:20 DEBUG FileParser:84 - Moved Eye of the Tiger to F:\working\correctedFiles\Greatest Hits\Eye of the Tiger.mp3
+2014-07-18 22:23:20 DEBUG FileParser:50 - Looking at file::F:\working\02 Danger Zone.mp3
+2014-07-18 22:23:20 DEBUG FileParser:63 - Track [trackName=Danger Zone, trackNumber=2, albumName=Billboard Top Hits: 1986, artist=Kenny Loggins, content=F:\working\02 Danger Zone.mp3]
+2014-07-18 22:23:21 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Billboard Top Hits: 1986\
+2014-07-18 22:23:21 ERROR FileParser:87 - Error occured::
+java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+	at java.io.WinNTFileSystem.canonicalize0(Native Method)
+	at java.io.WinNTFileSystem.canonicalize(Unknown Source)
+	at java.io.File.getCanonicalPath(Unknown Source)
+	at java.io.File.getCanonicalFile(Unknown Source)
+	at com.google.common.io.Files.createParentDirs(Files.java:632)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:82)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:23:21 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Greatest Hits\
+2014-07-18 22:23:21 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\01 Eye of the Tiger.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:23:21 DEBUG FileParser:50 - Looking at file::F:\working\17 Real Wild Child.mp3
+2014-07-18 22:23:21 DEBUG FileParser:63 - Track [trackName=Real Wild Child, trackNumber=17, albumName=Reading Indie Album, artist=Iggy Pop, content=F:\working\17 Real Wild Child.mp3]
+2014-07-18 22:23:21 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Reading Indie Album\
+2014-07-18 22:23:21 DEBUG FileParser:84 - Moved Real Wild Child to F:\working\correctedFiles\Reading Indie Album\Real Wild Child.mp3
+2014-07-18 22:23:21 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Billboard Top Hits: 1986\
+2014-07-18 22:23:21 ERROR FileParser:87 - Error occured::
+java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+	at java.io.WinNTFileSystem.canonicalize0(Native Method)
+	at java.io.WinNTFileSystem.canonicalize(Unknown Source)
+	at java.io.File.getCanonicalPath(Unknown Source)
+	at java.io.File.getCanonicalFile(Unknown Source)
+	at com.google.common.io.Files.createParentDirs(Files.java:632)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:82)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:23:21 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Greatest Hits\
+2014-07-18 22:23:21 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\01 Eye of the Tiger.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:23:21 DEBUG FileParser:50 - Looking at file::F:\working\Blood Bros_ First Blood.mp3
+2014-07-18 22:23:22 ERROR FileParser:65 - Something went wrong::null
+2014-07-18 22:23:23 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Reading Indie Album\
+2014-07-18 22:23:23 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\17 Real Wild Child.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:23:23 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Billboard Top Hits: 1986\
+2014-07-18 22:23:23 ERROR FileParser:87 - Error occured::
+java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+	at java.io.WinNTFileSystem.canonicalize0(Native Method)
+	at java.io.WinNTFileSystem.canonicalize(Unknown Source)
+	at java.io.File.getCanonicalPath(Unknown Source)
+	at java.io.File.getCanonicalFile(Unknown Source)
+	at com.google.common.io.Files.createParentDirs(Files.java:632)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:82)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:23:23 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Greatest Hits\
+2014-07-18 22:23:23 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\01 Eye of the Tiger.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:23:23 DEBUG FileParser:50 - Looking at file::F:\working\Blood Bros_ Heaven2Hell.mp3
+2014-07-18 22:23:24 ERROR FileParser:65 - Something went wrong::null
+2014-07-18 22:23:25 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Reading Indie Album\
+2014-07-18 22:23:25 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\17 Real Wild Child.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:23:25 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Billboard Top Hits: 1986\
+2014-07-18 22:23:25 ERROR FileParser:87 - Error occured::
+java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+	at java.io.WinNTFileSystem.canonicalize0(Native Method)
+	at java.io.WinNTFileSystem.canonicalize(Unknown Source)
+	at java.io.File.getCanonicalPath(Unknown Source)
+	at java.io.File.getCanonicalFile(Unknown Source)
+	at com.google.common.io.Files.createParentDirs(Files.java:632)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:82)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:23:25 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Greatest Hits\
+2014-07-18 22:23:25 ERROR FileParser:87 - Error occured::
+java.io.FileNotFoundException: F:\working\01 Eye of the Tiger.mp3 (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:126)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:116)
+	at com.google.common.io.ByteSource.copyTo(ByteSource.java:254)
+	at com.google.common.io.Files.copy(Files.java:442)
+	at com.google.common.io.Files.move(Files.java:667)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:83)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:24:43 DEBUG FileParser:34 - Input location::F:\working
+2014-07-18 22:24:43 DEBUG FileParser:50 - Looking at file::F:\working\01 Eye of the Tiger.mp3
+2014-07-18 22:24:43 DEBUG FileParser:63 - Track [trackName=Eye of the Tiger, trackNumber=1, albumName=Greatest Hits, artist=Survivor, content=F:\working\01 Eye of the Tiger.mp3]
+2014-07-18 22:24:43 DEBUG FileParser:50 - Looking at file::F:\working\02 Danger Zone.mp3
+2014-07-18 22:24:43 DEBUG FileParser:63 - Track [trackName=Danger Zone, trackNumber=2, albumName=Billboard Top Hits: 1986, artist=Kenny Loggins, content=F:\working\02 Danger Zone.mp3]
+2014-07-18 22:24:43 DEBUG FileParser:50 - Looking at file::F:\working\17 Real Wild Child.mp3
+2014-07-18 22:24:43 DEBUG FileParser:63 - Track [trackName=Real Wild Child, trackNumber=17, albumName=Reading Indie Album, artist=Iggy Pop, content=F:\working\17 Real Wild Child.mp3]
+2014-07-18 22:24:43 DEBUG FileParser:50 - Looking at file::F:\working\Blood Bros_ First Blood.mp3
+2014-07-18 22:24:44 ERROR FileParser:65 - Something went wrong::null
+2014-07-18 22:24:44 DEBUG FileParser:50 - Looking at file::F:\working\Blood Bros_ Heaven2Hell.mp3
+2014-07-18 22:24:45 ERROR FileParser:65 - Something went wrong::null
+2014-07-18 22:25:45 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Reading Indie Album\
+2014-07-18 22:25:45 DEBUG FileParser:84 - Moved Real Wild Child to F:\working\correctedFiles\Reading Indie Album\Real Wild Child.mp3
+2014-07-18 22:25:45 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Billboard Top Hits: 1986\
+2014-07-18 22:25:45 ERROR FileParser:87 - Error occured::
+java.io.IOException: The filename, directory name, or volume label syntax is incorrect
+	at java.io.WinNTFileSystem.canonicalize0(Native Method)
+	at java.io.WinNTFileSystem.canonicalize(Unknown Source)
+	at java.io.File.getCanonicalPath(Unknown Source)
+	at java.io.File.getCanonicalFile(Unknown Source)
+	at com.google.common.io.Files.createParentDirs(Files.java:632)
+	at main.java.core.FileParser.reorganiseFiles(FileParser.java:82)
+	at main.java.core.FileParser.startParse(FileParser.java:69)
+	at main.java.core.FileParser.main(FileParser.java:36)
+2014-07-18 22:25:45 DEBUG FpUtils:48 - Output location for new files::F:\working\correctedFiles\Greatest Hits\
+2014-07-18 22:25:45 DEBUG FileParser:84 - Moved Eye of the Tiger to F:\working\correctedFiles\Greatest Hits\Eye of the Tiger.mp3

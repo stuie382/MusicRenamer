@@ -1,4 +1,4 @@
-package com.sc.view;
+package main.java.view;
 
 import java.io.File;
 
